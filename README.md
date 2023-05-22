@@ -1,7 +1,7 @@
 # v2ray
 
-[https://raw.githubusercontent.com/xmha97/_/main/-](https://raw.githubusercontent.com/xmha97/_/main/-)
+[Base64](https://raw.githubusercontent.com/xmha97/_/main/-)
 
-[https://raw.githubusercontent.com/xmha97/_/main/-](https://raw.githubusercontent.com/xmha97/_/main/-.txt)
+[Mixed](https://raw.githubusercontent.com/xmha97/_/main/-.txt)
 
-[https://raw.githubusercontent.com/xmha97/_/main/-](https://raw.githubusercontent.com/xmha97/_/main/-.yml)
+[Clash](https://raw.githubusercontent.com/xmha97/_/main/-.yml)
