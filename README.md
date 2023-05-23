@@ -8,7 +8,7 @@
 - **Mixed**  
 [GitHub](https://raw.githubusercontent.com/xmha97/_/main/-.txt)  
 [GitHub Proxy](https://ghproxy.net/https://raw.githubusercontent.com/xmha97/_/master/-.txt)  
-[Jsdelivr](https://fastly.jsdelivr.net/gh/xmha97/_@master/-.txt)  
+[jsDelivr](https://fastly.jsdelivr.net/gh/xmha97/_@master/-.txt)  
 [Statically](https://cdn.staticaly.com/gh/xmha97/_/master/-.txt)  
 - **YML** (ClashForWindows, ClashForAndroid)  
 [GitHub](https://raw.githubusercontent.com/xmha97/_/main/-.yml)  
