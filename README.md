@@ -21,8 +21,8 @@ Address: `fodev.org`
 Port: `8118`  
 ## DNS  
 - **Shecan.ir**  
-DNS1: `0.0.0.0`  
-DNS2: `0.0.0.0`  
+DNS: `178.22.122.100` – `185.51.200.2`  
+DNS-over-TLS: `free.shecan.ir`  
+DNS-over-HTTPS: `https://free.shecan.ir/dns-query`  
 - **403.online**  
-DNS1: `0.0.0.0`  
-DNS2: `0.0.0.0`  
+DNS: `10.202.10.202` – `10.202.10.102`  
