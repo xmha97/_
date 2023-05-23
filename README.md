@@ -19,6 +19,7 @@
 - **Freedom of Developers (FOD)**  
 Address: `fodev.org`  
 Port: `8118`  
+Type: `HTTP`  
 ## DNS  
 - **Shecan.ir**  
 DNS: `178.22.122.100` – `185.51.200.2`  
