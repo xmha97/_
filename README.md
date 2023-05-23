@@ -1,5 +1,5 @@
 # Bypass Internet Restrictions
-## Proxy
+## Proxy 1
 - **Base64** (v2rayN, v2rayNG, NekoRay, NekoBox)  
 [GitHub](https://raw.githubusercontent.com/xmha97/_/main/-)  
 [GitHub Proxy](https://ghproxy.net/https://raw.githubusercontent.com/xmha97/_/master/-)  
@@ -15,7 +15,11 @@
 [GitHub Proxy](https://ghproxy.net/https://raw.githubusercontent.com/xmha97/_/master/-.yml)  
 [jsDelivr](https://fastly.jsdelivr.net/gh/xmha97/_@master/-.yml)  
 [Statically](https://cdn.staticaly.com/gh/xmha97/_/master/-.yml)  
-## DNS
+## Proxy 2  
+- **Freedom of Developers (FOD)**  
+Address: `fodev.org`  
+Port: `8118`  
+## DNS  
 - **Shecan.ir**  
 DNS1: `0.0.0.0`  
 DNS2: `0.0.0.0`  
