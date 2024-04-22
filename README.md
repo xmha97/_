@@ -27,3 +27,5 @@ DNS-over-TLS: `free.shecan.ir`
 DNS-over-HTTPS: `https://free.shecan.ir/dns-query`  
 - **403.online**  
 DNS: `10.202.10.202` – `10.202.10.102`  
+DNS-over-TLS: `dns.403.online`  
+DNS-over-HTTPS: `https://dns.403.online/dns-query`  
