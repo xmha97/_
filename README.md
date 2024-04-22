@@ -1,11 +1,11 @@
 # Bypass Internet Restrictions
 ## Proxy 1
-- **Base64** (v2rayN, v2rayNG, NekoRay, NekoBox)  
+- **Base64** (v2rayN, v2rayNG, NekoRay, NekoBox, Qv2ray)  
 [GitHub](https://raw.githubusercontent.com/xmha97/_/main/-)  
 [GitHub Proxy](https://ghproxy.net/https://raw.githubusercontent.com/xmha97/_/master/-)  
 [jsDelivr](https://fastly.jsdelivr.net/gh/xmha97/_@master/-)  
 [Statically](https://cdn.staticaly.com/gh/xmha97/_/master/-)  
-- **Mixed** (Hiddify)  
+- **Mixed** (Hiddify, Qv2ray)  
 [GitHub](https://raw.githubusercontent.com/xmha97/_/main/-.txt)  
 [GitHub Proxy](https://ghproxy.net/https://raw.githubusercontent.com/xmha97/_/master/-.txt)  
 [jsDelivr](https://fastly.jsdelivr.net/gh/xmha97/_@master/-.txt)  
