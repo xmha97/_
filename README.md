@@ -20,7 +20,7 @@ DNS-over-HTTPS: `https://free.shecan.ir/dns-query`
 DNS: `10.202.10.202` – `10.202.10.102`  
 DNS-over-TLS: `dns.403.online`  
 DNS-over-HTTPS: `https://dns.403.online/dns-query`  
-
-
+## Google DNS  
+DNS: `8.8.8.8` – `8.8.4.4`  
 # Other
 https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
