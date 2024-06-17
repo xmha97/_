@@ -23,5 +23,5 @@ DNS-over-HTTPS: `https://dns.403.online/dns-query`
 ## Google DNS  
 DNS: `8.8.8.8` – `8.8.4.4`  
 # Other
-https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
-https://github.com/soroushmirzaei/telegram-configs-collector
+https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp  
+https://github.com/soroushmirzaei/telegram-configs-collector  
